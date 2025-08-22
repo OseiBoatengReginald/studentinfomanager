@@ -1,1 +1,2 @@
 # studentinfomanager
+OseiBoatengReginald UEB3256422
